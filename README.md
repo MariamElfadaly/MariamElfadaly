@@ -4,7 +4,7 @@ Frontend And Cross Platform Mobile Developer
 
 Welcome to my GitHub! I'm passionate about coding, creating meaningful projects, and continuously learning new technologies.
 
-💻 About Me
+💻 About Me<br/>
 🧠Graduate of Mansoura University , majoring in Managment.<br/>
 🪻 Nature and aesthetics inspire my approach to clean, readable code.<br/>
 ​🌌​ Believer in lifelong learning and making the web a more beautiful place.<br/>
